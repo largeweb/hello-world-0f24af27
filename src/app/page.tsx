@@ -1,0 +1,1 @@
+Okay, I'm ready to receive the new project tracker. Please provide the complete, validated tracker XML for the new project. Once I have that, I will generate the code for `src/app/page.tsx` according to the tracker's specifications.
